@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Dark Mode Theme Palette -->
+    <color name="background_dark">#12131C</color>
+    <color name="card_dark">#1E2030</color>
+    <color name="text_primary">#F0F2FA</color>
+    <color name="text_secondary">#9CA3C2</color>
+    
+    <!-- Neon Accent Colors -->
+    <color name="primary_neon">#00D2FF</color>
+    <color name="secondary_neon">#00F5D4</color>
+    <color name="accent_neon">#7B2CBF</color>
+    
+    <!-- State Indicators -->
+    <color name="state_stopped">#4A4D66</color>
+    <color name="state_running">#00F5D4</color>
+    <color name="state_error">#FF4D6D</color>
+</resources>
