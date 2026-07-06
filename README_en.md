@@ -26,6 +26,19 @@ This project is an Android application that streams audio from an Android device
 
 ---
 
+## Installation
+
+### Via Obtanium
+You can install and keep the app up-to-date using [Obtanium](https://github.com/ImranR98/Obtainium), an Android app that fetches releases directly from GitHub.
+
+1. Install Obtanium from [GitHub Releases](https://github.com/ImranR98/Obtainium/releases) or [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/).
+2. Open Obtanium and tap the **+** button.
+3. Enter the repository URL: `https://github.com/thakyuu/VBAN_Transmitter_Android`
+4. Tap **Add**. Obtanium will automatically detect the latest APK release and install it.
+5. Obtanium will check for updates periodically and notify you when a new version is available.
+
+---
+
 ## Build & Run
 
 ### 1. Import the Project
