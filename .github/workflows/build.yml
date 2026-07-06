@@ -61,7 +61,7 @@ jobs:
           echo "apk_name=$(basename ${APK})" >> $GITHUB_OUTPUT
 
       - name: Upload APK artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: VBAN-Transmitter-${{ github.ref_name }}
           path: ${{ steps.apk.outputs.apk_path }}
