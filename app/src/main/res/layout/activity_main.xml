@@ -341,7 +341,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/trademark_notice"
-            android:textColor="#44606070"
+            android:textColor="@color/text_secondary"
             android:textSize="10sp"
             android:layout_gravity="center_horizontal"
             android:gravity="center"
