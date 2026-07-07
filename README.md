@@ -28,14 +28,14 @@
 
 ## インストール
 
-### Obtanium を使用する場合
-[Obtanium](https://github.com/ImranR98/Obtainium) を使用すると、GitHub のリリースから直接 APK をインストールし、最新バージョンに自動更新できます。
+### Obtainium を使用する場合
+[Obtainium](https://github.com/ImranR98/Obtainium) を使用すると、GitHub のリリースから直接 APK をインストールし、最新バージョンに自動更新できます。
 
-1. Obtanium を [GitHub Releases](https://github.com/ImranR98/Obtainium/releases) または [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/) からインストールします。
-2. Obtanium を開き、**+** ボタンをタップします。
+1. Obtainium を [GitHub Releases](https://github.com/ImranR98/Obtainium/releases) または [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/) からインストールします。
+2. Obtainium を開き、**+** ボタンをタップします。
 3. リポジトリの URL `https://github.com/thakyuu/VBAN_Transmitter_Android` を入力します。
-4. **Add** をタップすると、Obtanium が最新の APK リリースを自動検出してインストールします。
-5. Obtanium が定期的にアップデートを確認し、新しいバージョンが利用可能になると通知します。
+4. **Add** をタップすると、Obtainium が最新の APK リリースを自動検出してインストールします。
+5. Obtainium が定期的にアップデートを確認し、新しいバージョンが利用可能になると通知します。
 
 ---
 
